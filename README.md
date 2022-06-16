@@ -1,0 +1,2 @@
+# Contador
+Modelo de contador
